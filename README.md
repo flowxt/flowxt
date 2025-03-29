@@ -14,10 +14,10 @@
 
 ## À propos de moi
 - 👀 Je suis passionné par l'informatique depuis mon plus jeune âge.
-- 🌱 Je suis actuellement en formation diplômante de niveau 6 en tant que développeur d'applications JavaScript.
+- 🌱 Je suis actuellement en fin de formation diplômante de niveau 6 en tant que développeur d'applications JavaScript.
 - 💻 Je me consacre à maîtriser le JavaScript, ainsi que HTML, CSS, et d'autres technologies web.
 - 🌳 J'adore la nature et je suis toujours à la recherche de nouvelles choses à apprendre et explorer.
 - 💞️ Je cherche à collaborer sur des projets de développement web intéressants.
-- 📫 Vous pouvez me contacter à : florianbarjon@icloud.com
+- 📫 Vous pouvez me contacter à : floriandev74@gmail.com
 - 😄 Pronoms : Il/Lui
 - ⚡ Fun fact : J'ai 43 ans et j'aime équilibrer ma passion pour la tech avec mon amour de la nature.
